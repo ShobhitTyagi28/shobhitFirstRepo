@@ -1,0 +1,9 @@
+{
+	"name": "data-facctoryfirst",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ce7ed63c-e1d9-4ea5-ac75-8418ba23a64d",
+		"tenantId": "f8768314-769b-4579-b3d3-6c6c31c0e4ca"
+	}
+}
